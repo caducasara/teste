@@ -1,0 +1,679 @@
+{
+    "playlists": [
+        {
+            "name": "Recently Played",
+            "albums": [
+                {
+                    "id": 1,
+                    "title": "Appetite for Destruction",
+                    "artist": "Guns n' Roses",
+                    "year": 1987,
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/71H9ZR6EGFL.jpg",
+                    "quantity": 12,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Welcome to the Jungle",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "Nightrain",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "Mr. Brownstone",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "My Michelle",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Sweet Child O' Mine",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "Anything Goes",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "It's So Easy",
+                            "duration": 194
+                        },
+                        {
+                            "id": 8,
+                            "title": "Out Ta Get Me",
+                            "duration": 255
+                        },
+                        {
+                            "id": 9,
+                            "title": "Paradise City",
+                            "duration": 388
+                        },
+                        {
+                            "id": 10,
+                            "title": "Think About you",
+                            "duration": 212
+                        },
+                        {
+                            "id": 11,
+                            "title": "You're Crazy",
+                            "duration": 190
+                        },
+                        {
+                            "id": 12,
+                            "title": "Rocket Queen",
+                            "duration": 368
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Blurryface",
+                    "artist": "Twenty One Pilots",
+                    "year": 2015,
+                    "image": "https://m.media-amazon.com/images/I/71k-5WHYB9L._AC_SX569_.jpg",
+                    "quantity": 14,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Heavydirtysoul",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "Stressed Out",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ride",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Fairly Local",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Tear In My Heart",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "Lane Boy",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "The Judge",
+                            "duration": 194
+                        },
+                        {
+                            "id": 8,
+                            "title": "Doubt",
+                            "duration": 255
+                        },
+                        {
+                            "id": 9,
+                            "title": "Polarize",
+                            "duration": 388
+                        },
+                        {
+                            "id": 10,
+                            "title": " We Don't Believe What's On Tv",
+                            "duration": 212
+                        },
+                        {
+                            "id": 11,
+                            "title": "Message Man",
+                            "duration": 190
+                        },
+                        {
+                            "id": 12,
+                            "title": "Hometown",
+                            "duration": 368
+                        },
+                        {
+                            "id": 13,
+                            "title": "Not Today",
+                            "duration": 368
+                        },
+                        {
+                            "id": 14,
+                            "title": "Goner",
+                            "duration": 368
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Master of Puppets",
+                    "artist": "Metallica",
+                    "year": 1986,
+                    "image": "https://a-static.mlcdn.com.br/800x560/cd-metallica-master-of-puppets/umusicstore/1153/3508c570c909d473af5d1a1e285b819d.jpg",
+                    "quantity": 8,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Battery",
+                            "duration": 308
+                        },
+                        {
+                            "id": 2,
+                            "title": "Master of Puppets",
+                            "duration": 502
+                        },
+                        {
+                            "id": 3,
+                            "title": "The Thing That Should Not Be",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Sanitarium",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Disposable Heroes",
+                            "duration": 204
+                        },
+                        {
+                            "id": 6,
+                            "title": "Leper Messiah",
+                            "duration": 334
+                        },
+                        {
+                            "id": 7,
+                            "title": "Orion (Instrumental)",
+                            "duration": 196
+                        },
+                        {
+                            "id": 8,
+                            "title": "Damage, Inc.",
+                            "duration": 194
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Nevermind",
+                    "artist": "Nirvana",
+                    "year": 1991,
+                    "image": "https://m.media-amazon.com/images/I/71DQrKpImPL._AC_SX522_.jpg",
+                    "quantity": 13,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Smells Like Teen Spirit",
+                            "duration": 308
+                        },
+                        {
+                            "id": 2,
+                            "title": "In Bloom",
+                            "duration": 502
+                        },
+                        {
+                            "id": 3,
+                            "title": "Come As You Are",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Breed",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Lithium",
+                            "duration": 204
+                        },
+                        {
+                            "id": 6,
+                            "title": "Polly",
+                            "duration": 334
+                        },
+                        {
+                            "id": 7,
+                            "title": "Territorial Pissings",
+                            "duration": 196
+                        },
+                        {
+                            "id": 8,
+                            "title": "Drain You",
+                            "duration": 194
+                        },
+                        {
+                            "id": 9,
+                            "title": "Lounge Act",
+                            "duration": 194
+                        },
+                        {
+                            "id": 10,
+                            "title": "Stay Away",
+                            "duration": 194
+                        },
+                        {
+                            "id": 11,
+                            "title": "On A Plain",
+                            "duration": 194
+                        },
+                        {
+                            "id": 12,
+                            "title": "Something In The Way",
+                            "duration": 204
+                        },
+                        {
+                            "id": 13,
+                            "title": "Endless Nameless",
+                            "duration": 204
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Envolve",
+                    "artist": "Imagine Dragons",
+                    "year": 2017,
+                    "image": "https://m.media-amazon.com/images/I/71v1pBcehfL._AC_SL1400_.jpg",
+                    "quantity": 14,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "I Don't Know Why",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "Whatever It Takes",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "Believer",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Walking The Wire",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Rise Up",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "I'll Make It Up To You",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "Yesterday",
+                            "duration": 194
+                        },
+                        {
+                            "id": 8,
+                            "title": "Mouth of the River",
+                            "duration": 255
+                        },
+                        {
+                            "id": 9,
+                            "title": "Thunder",
+                            "duration": 388
+                        },
+                        {
+                            "id": 10,
+                            "title": "Start Over",
+                            "duration": 212
+                        },
+                        {
+                            "id": 11,
+                            "title": "Dancing In the Dark",
+                            "duration": 190
+                        },
+                        {
+                            "id": 12,
+                            "title": "Levitate",
+                            "duration": 368
+                        },
+                        {
+                            "id": 13,
+                            "title": "Not Today",
+                            "duration": 190
+                        },
+                        {
+                            "id": 14,
+                            "title": "Believer (Kaskade Remix)",
+                            "duration": 368
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Your Heavy Rotation",
+            "albums": [
+                {
+                    "id": 6,
+                    "title": "Black Sabbath",
+                    "artist": "Black Sabbath",
+                    "year": 1970,
+                    "image": "https://imusic.b-cdn.net/images/item/original/963/4050538636963.jpg?black-sabbath-2020-black-sabbath-50th-anniversary-vinyl&class=original",
+                    "quantity": 7,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Black Sabbath",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Wizard",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "Behind the Wall of Sleep",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "N.I.B.",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Evil Woman (cover de Crow)",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "Sleeping Village",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "Warning (cover de Aynsley Dunbar Retaliation)",
+                            "duration": 194
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "It's Five O'Clock Somewhere",
+                    "artist": "Slash's Snakepit",
+                    "year": 1995,
+                    "image": "https://m.media-amazon.com/images/I/815696heELL._AC_SX425_.jpg",
+                    "quantity": 12,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Dime Store Rock",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "Soma City Ward",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "Doin' Fine",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "I Hate Everybody (But You)",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Be The Ball",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "What Do You Want To Be",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "Back And Forth Again",
+                            "duration": 194
+                        },
+                        {
+                            "id": 8,
+                            "title": "Good To Be Alive",
+                            "duration": 255
+                        },
+                        {
+                            "id": 9,
+                            "title": "Neither Can I",
+                            "duration": 388
+                        },
+                        {
+                            "id": 10,
+                            "title": " Monkey Chow",
+                            "duration": 212
+                        },
+                        {
+                            "id": 11,
+                            "title": "Lower",
+                            "duration": 190
+                        },
+                        {
+                            "id": 12,
+                            "title": "Jizz Da Pit",
+                            "duration": 368
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "God & Guns",
+                    "artist": "Lynyrd Skynyrd",
+                    "year": 2009,
+                    "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Skynyrd_5IN_web_small-298x300.jpg?20090820043133",
+                    "quantity": 12,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Still Unbroken",
+                            "duration": 308
+                        },
+                        {
+                            "id": 2,
+                            "title": "Simple Life",
+                            "duration": 502
+                        },
+                        {
+                            "id": 3,
+                            "title": "Little Thing Called You",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Southern Ways",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Skynyrd Nation",
+                            "duration": 204
+                        },
+                        {
+                            "id": 6,
+                            "title": "Unwrite that Song",
+                            "duration": 334
+                        },
+                        {
+                            "id": 7,
+                            "title": "Floyd",
+                            "duration": 196
+                        },
+                        {
+                            "id": 8,
+                            "title": "That Ain't My America",
+                            "duration": 194
+                        },
+                        {
+                            "id": 9,
+                            "title": "Comin' Back for More",
+                            "duration": 204
+                        },
+                        {
+                            "id": 10,
+                            "title": "God & Guns",
+                            "duration": 334
+                        },
+                        {
+                            "id": 11,
+                            "title": "Storm",
+                            "duration": 196
+                        },
+                        {
+                            "id": 12,
+                            "title": "Gifted Hands",
+                            "duration": 194
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "In Your Honor",
+                    "artist": "Foo Fighters",
+                    "year": 2005,
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/81a5zVa9nPL.jpg",
+                    "quantity": 10,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "In Your Honor",
+                            "duration": 308
+                        },
+                        {
+                            "id": 2,
+                            "title": "No Way Back",
+                            "duration": 502
+                        },
+                        {
+                            "id": 3,
+                            "title": "Best of You",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "DOA",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hell",
+                            "duration": 204
+                        },
+                        {
+                            "id": 6,
+                            "title": "The Last Song",
+                            "duration": 334
+                        },
+                        {
+                            "id": 7,
+                            "title": "Free Me",
+                            "duration": 196
+                        },
+                        {
+                            "id": 8,
+                            "title": "Resolve",
+                            "duration": 194
+                        },
+                        {
+                            "id": 9,
+                            "title": "The Deepest Blues Are Black",
+                            "duration": 194
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "AM",
+                    "artist": "Arctic Monkeys",
+                    "year": 2013,
+                    "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/96/Capa-AM_%28oficial%29.jpeg/220px-Capa-AM_%28oficial%29.jpeg",
+                    "quantity": 12,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "title": "Do I Wanna Know?",
+                            "duration": 260
+                        },
+                        {
+                            "id": 2,
+                            "title": "R U Mine?",
+                            "duration": 257
+                        },
+                        {
+                            "id": 3,
+                            "title": "One for the Road",
+                            "duration": 210
+                        },
+                        {
+                            "id": 4,
+                            "title": "Arabella",
+                            "duration": 204
+                        },
+                        {
+                            "id": 5,
+                            "title": "I Want It All",
+                            "duration": 334
+                        },
+                        {
+                            "id": 6,
+                            "title": "No.1 Party Anthem",
+                            "duration": 196
+                        },
+                        {
+                            "id": 7,
+                            "title": "Mad Sounds",
+                            "duration": 194
+                        },
+                        {
+                            "id": 8,
+                            "title": "Fireside",
+                            "duration": 255
+                        },
+                        {
+                            "id": 9,
+                            "title": "Why'd You Only Call Me When You're High?",
+                            "duration": 388
+                        },
+                        {
+                            "id": 10,
+                            "title": "Snap Out of It",
+                            "duration": 212
+                        },
+                        {
+                            "id": 11,
+                            "title": "Knee Socks",
+                            "duration": 190
+                        },
+                        {
+                            "id": 12,
+                            "title": "I Wanna Be Yours",
+                            "duration": 368
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
